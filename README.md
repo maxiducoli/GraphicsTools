@@ -2,7 +2,8 @@
 
 🎨 *Conversor gráfico avanzado para modding de Winning Eleven 2002 — soporta BMP ↔ TIM, paletas y compresión BIN.*
 
-**GraphicdTools** es una utilidad especializada en la conversión entre formatos gráficos usados en *Winning Eleven 2002* (PC) y formatos estándar editables. Permite a los modders trabajar con herramientas comunes (como GIMP o Photoshop) y luego exportar sus diseños al formato exacto que el juego entiende.
+**GraphicdTools** 
+La utilidad principal de esta herrmienta es pintar gráficos de 4 u 8 bits pixel a pixel con una interfaz gráfica cómoda mediante sliders RGB, para luego exportar el gráfico editado al formato TIM o BMP e incluso guardar como gráfico comprimido en formato BIN listo para insertar en el juego.
 
 Desarrollado bajo el pseudónimo **CARP**, este programa resuelve uno de los mayores dolores de cabeza del modding retro: **la incompatibilidad entre formatos de imagen y paletas**.
 
